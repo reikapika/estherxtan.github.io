@@ -1,10 +1,10 @@
 body {
-  background-color: #9370DB;
+  background-color: #b0c4de;
   background-repeat: repeat-x;
   background-position: 100%;
   background-attachment: fixed;
   font-family: 'Open Sans', sans-serif;
-  color: white;
+  color: black;
 }
 p {
   font-family: 'Open Sans', monospace;
@@ -91,7 +91,7 @@ figcaption {
 .skill-item {
   text-transform: uppercase;
   text-align: left;
-  color: white;
+  color: black;
   font-size: 12px;
 }
 .no-padding {
@@ -117,7 +117,7 @@ figcaption {
   text-align: center;
   font-size: 20px;
   font-weight: 600;
-  background-color: #333;
+  background-color: #b0c4de;
   margin-top: 200px;
   padding: 0;
 }
